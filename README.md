@@ -11,3 +11,5 @@ Antes de descontinuar o produto,propomos uma comunidade para gerir e manter tal 
 - Criar uma ferramenta para que a comunidade Futebits atualize os resultados
 
 Com isso teremos um produto melhor, uma garantia de atualização de resultados e maior credibilidade com o público-alvo.
+
+Se você tem interesse em participar do projeto, contate-nos!
